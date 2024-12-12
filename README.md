@@ -1,4 +1,9 @@
 # MERN Team Project
+Features:
+- User Authentication
+- Dashboard
+- Real-time Chat
+
 Tech Stack:
 - MongoDB
 - Express
